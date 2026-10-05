@@ -7,7 +7,6 @@
 
 ```
 ├── notebooks/GOT_deadoralive.ipynb   # решение (предобработка, модели, предсказание)
-├── submission/submission.csv         # предсказания для тестовой выборки (389 строк, колонка isAlive)
 ├── data/                             # см. data/README.md — откуда берутся данные
 ├── requirements.txt
 └── README.md
